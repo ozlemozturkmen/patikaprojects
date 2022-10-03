@@ -1,0 +1,89 @@
+#back-ground {
+    color: rgb(131, 103, 66);
+
+}
+
+
+
+
+.text-font {
+    font-style: italic;
+    color: saddlebrown
+}
+
+.image-size {
+    list-style-position: inside
+}
+
+h2 {
+    font-family: 'Lobster';
+    color: chocolate;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+h1 {
+    color: #704b08;
+    font-family: 'Lobster';
+    text-align: center;
+    font-size: 60px;
+    font-style: normal
+}
+
+
+
+li {
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Lato';
+    font: weight 400px;
+    font-size: 50px;
+    color: #452f05;
+    font-style: italic;
+
+}
+
+.article-style {
+    font-family: 'Lato';
+    color: rgb(45, 35, 7);
+    font: weight 400px;
+    text-align: center;
+    font-size: 45px;
+    font-style: italic;
+
+
+
+}
+
+.a-style {
+    text-align: center;
+    font-size: 30px;
+    color: #452f05;
+
+
+}
+
+ol {
+    overflow: hidden;
+}
+
+ol li {
+    float: left;
+    margin-right: 20px;
+}
+
+ol li img {
+    border: 2px solid #000;
+}
+
+
+
+image {
+    float: left;
+}
+
+nav {
+    text-align: center;
+    font-size: large;
+}
